@@ -18,9 +18,15 @@ All notable changes to the project are documented in this file using rules based
 
 ## [1.0.0] - 2020-02-02
 
-### :tada: Initial Release
+### This release addresses
 
-- Release all files after performing final checks with namcap and ClamAV
+- Initialization of repository
+
+### This release includes
+
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+| 56b51a0 | 2020-02-02 | :tada: INIT: Initial upload                           |
 
 ---
 
