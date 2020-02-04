@@ -4,8 +4,6 @@ _Exploring and Sharing Custom [Arch Linux](https://www.archlinux.org/) PKGBUILDs
 
 ---
 
-# Arch Linux package for [remark-preset-lint-consistent](https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-consistent)
-
 **_This repository contains unofficial packaging for an installation of [remark-preset-lint-consistent](https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-consistent). It is not affiliated, authorized, endorsed by, or in other way connected with either Arch Linux or the Remark Lint project. The following license refers to that packaging and not the upstream software_**
 
 ---
@@ -192,7 +190,7 @@ Any original software produced for [Archiv8](https://archiv8.github.io/) and / o
 
 The license for upstream software, including the Arch Linux packaging tools used in the creation of this package, remains as designated by its creator and contributors.
 
-(c) Documentation, 2017 - 2020 Ross Clark and [Archiv8 Contributors](https://github.com/Archiv8/nodejs-remark-preset-lint-consistent/people)
+(c) Documentation and Code, 2017 - 2020 Ross Clark and [Archiv8 Contributors](https://github.com/Archiv8/nodejs-remark-preset-lint-consistent/people)
 
 ---
 
