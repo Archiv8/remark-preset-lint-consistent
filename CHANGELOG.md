@@ -14,10 +14,22 @@ All notable changes to the project are documented in this file using rules based
 
 ## Unreleased
 
+## [1.1.0] - 2020-02-04
+
+### This release addresses
+
+- Improvements in readability for licensing, copyright, documentation
+
+### This release includes
+
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|  latest | 2020-02-02 | :id: SHA: Regenerate mismatched sums                  |
-|  latest | 2020-02-02 | :date: CHANGE: Add items to changelog                 |
+|  latest | 2020-02-04 | :id: SECURE: Regenerate sums for changed files        |
+|  latest | 2020-02-04 | :date: CHANGE: Add new items to changelog             |
+| c25b219 | 2020-02-04 | :cop: DOC(copy): Update license and copyright         |
+| 6bfd121 | 2020-02-04 | :cop: DOC(copy): Update copyright to include code     |
+| 00c4a5c | 2020-02-02 | :id: SECURE: Regenerate sums for changed files        |
+| cd2b311 | 2020-02-02 | :date: CHANGE: Add items to changelog                 |
 | c7e3133 | 2020-02-02 | :pencil: DOC(spell): Update spellings list            |
 | 963524c | 2020-02-02 | :date: CHANGE: Add items to changelog                 |
 
