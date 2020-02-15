@@ -1,4 +1,3 @@
-# shellcheck shell=bash
 # Maintainer: Archiv8 <archiv8@artisteducator.com>
 # Contributor: Archiv8 <archiv8@artisteducator.com>
 
@@ -35,9 +34,9 @@ source=(
 "MIT.md"
 "README.md"
 )
-# noextract=()
+noextract=("$_relname-$pkgver.tgz")
 # validpgpkeys=()
-sha256sums=('0e3175fc14bc8062a6f425aa9865781b722235991e51e8d20aae0a52dfc066ad'
+sha512sums=('0e3175fc14bc8062a6f425aa9865781b722235991e51e8d20aae0a52dfc066ad'
             'b636d12a2a4b23727d2dc5042d7767561183dc6d0b6c6cc8ecf5f18ef2c37190'
             '4c304808a24d76182a70ad701325cd382d7aa3ab51df361b15d5a50d6623dbd4'
             '719dfe7bc1bcf23f8cf3ac7b5df0af10d01a5cccbb01319bfb0d116c3822ef88'
