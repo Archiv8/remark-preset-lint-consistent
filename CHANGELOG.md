@@ -14,7 +14,27 @@ All notable changes to the project are documented in this file using rules based
 
 ## Unreleased
 
-## [1.1.0] - 2020-02-04
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+|         |            |                                                       |
+
+## :wrench: [1.1.1] - 2020-02-15
+
+### This release addresses
+
+- General tidy of packaging and tools
+
+### This release includes
+
+| Commit  | Date       | Title / Overview                                      |
+| ------- | ---------- | ----------------------------------------------------- |
+|      +2 | 2020-02-15 | :id: SECURE: Regenerate sums for changed files        |
+|      +1 | 2020-02-15 | :date: DOC(log): Update changelog ready for 1.1.1     |
+| ae3ef47 | 2020-02-15 | :wrench: TOOL(lint): Add extra presets                |
+| 877a166 | 2020-02-15 | :school: TOOL(spell): Add latest spellings to repo    |
+| 56cd62b | 2020-02-15 | :gift: PACK(info): Fix contibutor / maintainer info   |
+
+## :date: [1.1.0] - 2020-02-04
 
 ### This release addresses
 
@@ -24,8 +44,8 @@ All notable changes to the project are documented in this file using rules based
 
 | Commit  | Date       | Title / Overview                                      |
 | ------- | ---------- | ----------------------------------------------------- |
-|  latest | 2020-02-04 | :id: SECURE: Regenerate sums for changed files        |
-|  latest | 2020-02-04 | :date: CHANGE: Correct previous changelog update      |
+| f08aa96 | 2020-02-04 | :id: SECURE: Regenerate sums for changed files        |
+| 873ba0b | 2020-02-04 | :date: CHANGE: Correct previous changelog update     |
 | 88ebcd7 | 2020-02-04 | :date: CHANGE: Add new items to changelog             |
 | c0abccb | 2020-02-04 | :package: PACK: Update to install new items           |
 | c0abccb | 2020-02-04 | :date: CHANGE: Add new items to changelog             |
@@ -36,7 +56,7 @@ All notable changes to the project are documented in this file using rules based
 | c7e3133 | 2020-02-02 | :pencil: DOC(spell): Update spellings list            |
 | 963524c | 2020-02-02 | :date: CHANGE: Add items to changelog                 |
 
-## [1.0.0] - 2020-02-02
+## :tada: [1.0.0] - 2020-02-02
 
 ### This release addresses
 
