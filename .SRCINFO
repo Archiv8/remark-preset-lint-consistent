@@ -1,0 +1,15 @@
+pkgbase = remark-preset-lint-consistent
+	pkgdesc = A remark lint preset to enforce consistency.
+	pkgver = 5.1.1
+	pkgrel = 1
+	url = https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-consistent
+	arch = any
+	license = MIT
+	makedepends = jq
+	makedepends = npm
+	depends = nodejs
+	noextract = remark-preset-lint-consistent-5.1.1.tgz
+	source = https://registry.npmjs.org/remark-preset-lint-consistent/-/remark-preset-lint-consistent-5.1.1.tgz
+	sha512sums = 0d941fa268958bfd71ecd441c96ace8880bea251066b53e9cb290aae8c2f629e6aaff49eabad05a94ece8c1271b5c38bce09d072ef58d895dd1f1162e0000f5d
+
+pkgname = remark-preset-lint-consistent
