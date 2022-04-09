@@ -1,7 +1,7 @@
 pkgbase = remark-preset-lint-consistent
 	pkgdesc = A remark lint preset to enforce consistency.
 	pkgver = 5.1.1
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/remarkjs/remark-lint/tree/master/packages/remark-preset-lint-consistent
 	arch = any
 	license = MIT
